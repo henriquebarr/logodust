@@ -1,4 +1,7 @@
-# Free & Open Sourced Logo Designs For Your Project
+![Logodust](logodust.svg)
+
+# Logodust
+### Free & Open Sourced Logo Designs For Your Project
 [Logodust](https://www.logodust.com/) is a growing library of unused logo designs that have been made open source. The logos below can be downloaded unlimited times and used by anyone. For personal & commercial projects. No attribution required. Perfect to help you launch your next mvp or mockup even faster.
 
 Subscribe to our weekly newsletter and join 20k+ makers that are getting free logo designs & exclusive offers delivered to their inbox.
